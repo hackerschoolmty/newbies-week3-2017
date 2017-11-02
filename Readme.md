@@ -1,6 +1,6 @@
 # Newbies semana 3
 
-Bienvenido a la semana 3 del programa de newbies. Acá encontrarás algunos datos que creo que serán útiles para el programa.
+Bienvenido a la semana 3 del programa de newbies. Acá encontrarás algunos datos que creo serán útiles para la siguiente fase del programa.
 
 ## Un heads up
 
