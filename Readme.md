@@ -2,7 +2,7 @@
 
 Bienvenido a la semana 3 del programa de newbies. Acá encontrarás algunos datos que creo serán útiles para la siguiente fase del programa.
 
-## Un heads up
+## Un heads up
 
 1. Escribiremos mucho código juntos.
 
@@ -15,10 +15,14 @@ Bienvenido a la semana 3 del programa de newbies. Acá encontrarás algunos dato
 
 4. Te divertirás mucho (La mayor parte del tiempo)
 
-## Dependencias de Software
+## Dependencias de Software
 
 Usaremos **Python 3**. Si aún necesitas instalarlo lo puedes hacer:
 
 * Para Windows desde [aquí](https://www.python.org/downloads/windows/)
 * Para OS X desde [aquí](https://www.python.org/downloads/mac-osx/) o con [Homebrew](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
 * Para Ubuntu / Debian desde [aquí](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-16-04-server)
+
+## Overview del contenido
+
+* Introducción
