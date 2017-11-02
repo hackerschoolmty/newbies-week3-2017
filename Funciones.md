@@ -1,6 +1,6 @@
 # Funciones
 
-## Modelos mentales
+## Modelos mentales
 
 ¿Qué entendemos cuando escuchamos la palabra **Función**?
 
@@ -37,7 +37,7 @@ Las funciones interactuan con nuestro programa así:
 * Parámetros: `number` (Más que el nombre nos importa lo que significa)
 * Valor de returno: `result` (En este caso no nos importa el nombre pero sí que significa ese resultado)
 
-### Ejemplos de funciones del lenguaje
+### Ejemplos de funciones del lenguaje
 
 ```python
 	print()

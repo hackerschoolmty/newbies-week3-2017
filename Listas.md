@@ -1,4 +1,4 @@
-## Listas
+# Listas
 
 Son literalmente listas de cosas. Cosas es un término apto en Python y cualquier lenguaje dinámico porque no importa qué, pueden ser números, strings, nadas (None) y más.
 
