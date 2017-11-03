@@ -3,6 +3,7 @@
 # Opcion a: Desplegar el menu (# de plato o indice y comida)
 # Opcion b: Ingresar una nueva comida
 # Opcion c: Borrar una comida (Validar que exista el # de plato)
+# Opcion d: Salir
 #
 # Bonus: Construir una interfaz para hacer lo mismo con inputs de usuario
 

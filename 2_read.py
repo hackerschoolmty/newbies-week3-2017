@@ -15,6 +15,10 @@ print(foods)
 foods.remove("Ensalada")
 print(foods)
 
+# Revisar si un elemento está presente
+"Ensalada" in foods # => False
+"Sushi" in foods # => True
+
 # Accesar a un grupo de elementos
 print(foods[1:3])
 print(foods[3:])
